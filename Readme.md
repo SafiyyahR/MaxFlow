@@ -45,10 +45,10 @@ Enter
 
 The input graph
 
-![Input Graph with 6 nodes and 8 edges](assests\\images\\InputGraph.png)
+![Input Graph with 6 nodes and 8 edges](assests%5images%5InputGraph.png)
 
 The expected result graph
-![Output Graph with 6 nodes and 8 edges](assests\\images\\MaxFlowGraph.png)
+![Output Graph with 6 nodes and 8 edges](assests%5images%5xFlowGraph.png)
 
 The beginning of the program
 
