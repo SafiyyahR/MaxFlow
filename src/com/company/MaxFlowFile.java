@@ -1,4 +1,10 @@
 /*
+Name: Safiyyah Thur Rahman
+UoW ID: W1714855
+IIT ID: 2018025
+Course: BEng. Software Engineering
+Submission Date:30/03/2020
+Coursework 01 for Algorithms
 This file is used to read the txt files and print the max flow of each graph stored in the file,
 and print the time taken to calculate the time taken to execute the function for each graph
 and finally calculate the big o of the algorithm.

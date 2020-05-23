@@ -1,4 +1,10 @@
 /*
+Name: Safiyyah Thur Rahman
+UoW ID: W1714855
+IIT ID: 2018025
+Course: BEng. Software Engineering
+Submission Date:30/03/2020
+Coursework 01 for Algorithms
 This file is used to allow the user to make their own graph and find the max flow.
 Allows them to also modify the graph after finding the max flow.
 */

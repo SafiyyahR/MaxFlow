@@ -1,4 +1,10 @@
 /*
+Name: Safiyyah Thur Rahman
+UoW ID: W1714855
+IIT ID: 2018025
+Course: BEng. Software Engineering
+Submission Date:30/03/2020
+Coursework 01 for Algorithms
 This file is used to randomly generate
 a flow network after the user gives the number of edges and
 number of nodes and the maximum weight an edge can have.

@@ -1,4 +1,10 @@
 /*
+Name: Safiyyah Thur Rahman
+UoW ID: W1714855
+IIT ID: 2018025
+Course: BEng. Software Engineering
+Submission Date:30/03/2020
+Coursework 01 for Algorithms
 This file contains the psvm method used to access the other methods that
 can show the doubling hypothesis and the big O() notation calculation
 Also the user can enter a graph and see the max flow,by modifying the graph multiple times.
