@@ -48,7 +48,9 @@ The input graph
 ![Input Graph with 6 nodes and 8 edges](https://github.com/SafiyyahR/MaxFlow/blob/master/assests/images/InputGraph.png)
 
 The expected result graph
+
 ![Output Graph with 6 nodes and 8 edges](https://github.com/SafiyyahR/MaxFlow/blob/master/assests/images/MaxFlowGraph.png)
+
 
 The beginning of the program
 
