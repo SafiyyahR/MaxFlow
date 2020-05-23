@@ -1,4 +1,4 @@
-# Max FLow Algorithm
+# Max Flow Algorithm
 
 ## Description
 
